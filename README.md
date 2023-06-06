@@ -16,7 +16,7 @@ A proposta desse desafio é listar quadrinhos da Marvel demonstrando sua capacid
 Os dados a serem listados se encontram disponíveis para obtenção por meio deste link https://developer.marvel.com/.
 Você deve listar os personagens de forma paginada consumindo o endpoint `GET /v1/public/comics`.
 
-Devem ser exibidos 9 personagens por página.
+Devem ser exibidos 10 personagens por página.
 
 Deve ser possível pesquisar por quadrinhos que *comecem com*  o termo pesquisado (PS. sabemos das limitações da API)
 
