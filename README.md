@@ -16,7 +16,7 @@ A proposta desse desafio é listar quadrinhos da Marvel demonstrando sua capacid
 Os dados a serem listados se encontram disponíveis para obtenção por meio deste link https://developer.marvel.com/.
 Você deve listar os personagens de forma paginada consumindo o endpoint `GET /v1/public/comics`.
 
-Devem ser exibidos 10 personagens por página.
+Devem ser exibidos 10 quadrinhos por página.
 
 Deve ser possível pesquisar por quadrinhos que *comecem com*  o termo pesquisado (PS. sabemos das limitações da API)
 
@@ -34,10 +34,6 @@ Encorajamos o uso de bibliotecas CSS-in-JS, como o Stitches [https://stitches.de
 
 Quanto às demais tecnologias, fica a seu critério escolher. No entanto, mais uma vez, você deve estar preparado para justificar suas decisões.
 
-### Seção de demonstração
-
-Por fim, forneça uma documentação por meio de um arquivo README.md, explicando o seu projeto. Inclua instruções completas para executar o aplicativo e comentários que você julgar relevantes para a avaliação.
-
 ### :dart: Requisitos do projeto
 
 A interface deve ser totalmente responsiva;
@@ -46,7 +42,7 @@ Utilize uma ou mais ferramentas "linter";
 
 Escreva pelo menos 2 testes unitários (você pode escolher as ferramentas);
 
-Forneça uma documentação, incluindo instruções completas para executar o projeto.
+Forneça uma documentação por meio de um arquivo README.md, incluindo instruções completas para executar o projeto e comentários que você julgar relevantes para a avaliação.
 
 
 ### :clap: Diferenciais
